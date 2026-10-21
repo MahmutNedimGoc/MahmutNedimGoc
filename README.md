@@ -4,7 +4,6 @@ Marmara Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum.
 Gömülü sistemler, robotik ve endüstriyel otomasyon alanlarında çalışıyorum.
 
 ## Öne çıkan projeler
-- **3B LiDAR Haritalama:** TFmini-S + servo/step motor, Raspberry Pi 5, C++/Python, Unity görselleştirme → [repo](link)
 - **MicroYOLO (Edge AI):** ESP32-CAM üzerinde INT8 nesne tespiti, TFLite Micro → [repo](https://github.com/MahmutNedimGoc/EE4065_Final)
 - **ROS 2 + Unity haritalama** → [repo](https://github.com/MahmutNedimGoc/Unity_RosMapping_FinalProject)
 
