@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba, ben Mahmut Nedim 👋
 
-<!--
-**MahmutNedimGoc/MahmutNedimGoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marmara Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum.
+Gömülü sistemler, robotik ve endüstriyel otomasyon alanlarında çalışıyorum.
 
-Here are some ideas to get you started:
+## Öne çıkan projeler
+- **3B LiDAR Haritalama:** TFmini-S + servo/step motor, Raspberry Pi 5, C++/Python, Unity görselleştirme → [repo](link)
+- **MicroYOLO (Edge AI):** ESP32-CAM üzerinde INT8 nesne tespiti, TFLite Micro → [repo](https://github.com/MahmutNedimGoc/EE4065_Final)
+- **ROS 2 + Unity haritalama** → [repo](https://github.com/MahmutNedimGoc/Unity_RosMapping_FinalProject)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Teknolojiler
+C · C++ · Python · Java · ROS 2 · ESP32 · Raspberry Pi · TensorFlow Lite · Unity · MATLAB
+
+## İletişim
+[LinkedIn](https://www.linkedin.com/in/mahmut-nedim-goc)
